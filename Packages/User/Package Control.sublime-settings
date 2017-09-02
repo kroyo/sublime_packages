@@ -5,14 +5,20 @@
 	],
 	"installed_packages":
 	[
-		"BracketHighlighter",
+		"1Self",
+		"Alignment",
+		"CSScomb",
+		"DocBlockr",
 		"Emmet",
-		"HTML-CSS-JS Prettify",
+		"Markdown Preview",
+		"MarkdownEditing",
 		"Package Control",
-		"SyncedSideBar",
-		"Terminal",
-		"TrailingSpaces",
-		"Vue Syntax Highlight",
-		"Vuejs Complete Package"
+		"Predawn",
+		"Sass",
+		"SASS Build",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Terminal"
 	]
 }
